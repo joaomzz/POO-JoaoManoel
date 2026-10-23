@@ -6,7 +6,7 @@ public class app {
         ArmaLaser arma = new ArmaLaser();
         Marciano marciano = new Marciano();
 
-        nave.desenhar();git status
+        nave.desenhar();
         arma.desenhar();
         marciano.desenhar();
     }
